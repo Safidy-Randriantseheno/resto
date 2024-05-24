@@ -1,0 +1,4 @@
+CREATE TABLE PointOfSale (
+    id UUID PRIMARY KEY,
+    place VARCHAR(255) NOT NULL
+);
